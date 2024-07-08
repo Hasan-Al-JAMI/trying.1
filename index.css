@@ -1,0 +1,13 @@
+h1{
+    border: 10px solid mistyrose;    
+}
+@media(max-width: 400px) and (max-width: 700px){
+
+}
+
+@media(max-width: 400px){
+    h1{
+        border: 5px dashed lightcoral;
+        font-size: 10px;
+    }
+}
